@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "",
+  "license": "GPL",
+  "devDependencies": {
+    "mocha": "~2.4.4",
+    "chai": "~3.5.0"
+  },
+  "dependencies": {
+    "connect": "~3.4.1",
+    "winston": "~2.1.1"
+  }
+}
